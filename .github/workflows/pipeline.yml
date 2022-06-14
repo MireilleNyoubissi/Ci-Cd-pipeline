@@ -2,7 +2,7 @@ name: Python Pipiline
 
 on: push
 
-  jobs: 
+jobs:
     test: 
       runs-on: ubuntu-latest
       steps: 
